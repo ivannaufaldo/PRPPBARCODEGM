@@ -1,0 +1,73 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #edf2f3;
+	padding-bottom: 50px;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+}
+.container {
+	background-color: #fff;
+	margin-top: 40px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 10px;
+	box-shadow: 0 10px 10px 0 rgba(1, 1, 1, 0.3), 0 6px 20px 0 rgba(1, 1, 1, 0.2);
+}
+.btn {
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 16px;
+	font-weight: 700;
+}
+#tambah {
+	float: right;
+	margin-bottom: 20px;
+}
+td {
+	font-size: 18px;
+}
+
+form {
+	margin-bottom: 20px;
+}
+
+.form-group {
+	margin-bottom: 10px;
+}
+
+.pagination > li > a {
+	background-color: white;
+	color: #4e545c;
+}
+
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover {
+	color: #5a5a5a;
+	background-color: #eee;
+	border-color: #ddd;
+}
+
+.pagination > .active > a {
+	color: white;
+	background-color: #4e545c !important;
+	border: solid 1px #5a4181 !important;
+}
+
+.pagination > .active > a:hover {
+	background-color: #4e545c !important;
+	border: solid 1px #4e545c;
+}
+.pagination {
+	margin-bottom: 20px;
+}
+#tabel-konten {
+	margin-bottom: 30px;
+}
+#navbaratas {
+	background-color: #4e545c;
+}
